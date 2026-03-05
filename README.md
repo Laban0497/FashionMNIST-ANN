@@ -1,3 +1,4 @@
+#Group members list is available in [GROUP_MEMBERS.docx](GROUP_MEMBERS.docx)
 # FashionMNIST-ANN
 # Fashion MNIST Image Classification Using ANN
 
@@ -43,3 +44,4 @@ The model achieves high accuracy (~90%+) on unseen test data, showing that ANNs 
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/FashionMNIST-ANN.git
+   
