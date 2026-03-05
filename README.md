@@ -1,6 +1,19 @@
-#Group members list is available in [GROUP_MEMBERS.docx](GROUP_MEMBERS.docx)
-# FashionMNIST-ANN
-# Fashion MNIST Image Classification Using ANN
+##Group members list is available in [GROUP_MEMBERS.docx](GROUP_MEMBERS.docx)
+##memebers
+
+NAME	                REG NO
+BRIAN OCHIENG’	    SC211/0473/2022
+MARTIN MWANGI	    SC211/0708/2022
+LABAN BIWOTT	    SC211/0497/2022
+SILA WAMBUA	       SC211/0535/2022
+MOSES CHEGE	       SC211/1937/2022
+SIKAMOI PURITY	    SC211/1358/2020
+CHRISTOPHER AKUNO	 SC211/0471/2022
+
+
+
+## FashionMNIST-ANN
+## Fashion MNIST Image Classification Using ANN
 
 ## Overview
 This project demonstrates the implementation of an **Artificial Neural Network (ANN)** for classifying grayscale images of clothing items from the **Fashion-MNIST dataset**. The notebook follows a complete workflow including:
